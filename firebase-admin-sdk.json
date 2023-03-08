@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ipharma-5f75f",
+  "private_key_id": "ae250171fd4867dee2a3eff609083b377b7f6735",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgCJdHb7UPetb5\ni2635Y3toa5DSo4QFDd+a11R+HtJU0o7JKdeSSWQLu9wVIDcEI5Th9hSywM7ec9F\nJR6BcMKTpUwBwDxOLgm4S0IwueaM/xH6fBBIfhdkCdEEidPAS4mQRXf6+7jz+TBW\nSFDYvYxZxssJeljjMHeF5KShPMYB40V+F+lZdHqkyDv0mWe0KkoD1rHUVwrka1+K\n/0uJUAqMLDXEPpnDEYLxSm3dcoCuC5+n+jcI+uJ0h52brNoVZSiL/Cl1O/OenLFT\n1YlRRE3BC93XiD0p6yjrwwyTqipJtmbUqMQxgnwH4ZzZvYAkfe6qv3dTNQNYFf/6\nqYfnI1RZAgMBAAECggEADjclJPnVxgW94dXSZHB2LoUdoymUu/XnxgmIdRcS8Hz/\nC4jiexwZQ5j/uOUwuxuXYPEgtJ4G7/oOgNBeyNW42v+kZEVste8d+upoe0aQJbck\npDDwC1h0AHVkxTfvANZU5mVdVoSUtctNUWTEFbSkqnbfozxkd+3euByKyS3KUvF2\nxkZFryszFCAa877yZK/rzI7ngybhyTj2twffZRFg/ABDV2T2VEYRUq+CNvpCxy4l\ntmbHGIFrSYU2ta7BUgK6x/1EfBVLcjojchHyN46GrUCFL7RTVw7DkJmS03zhpNEN\ny/sEIRiTRQTSsRiwSOT8NzPwkAM7AzHTDPwUravbZwKBgQDSup8pN8bf8BuX0DAv\nbtDUXDniKxf5sF/mF6ZdFHbngpkTbRPHgAD2SqscDCZToSm8lgTYN9MoDK8GGoPw\nWLrYBPnflv66NmWAFNFnklnnLqwhL5zcSILGm9Y/AX3q3LhvyEOBNirZFz3/RGtg\nuM/X0kKAPYOivvKSgxyFade7KwKBgQDCaeSI7HOczWFUqgLiUOap5dmgGYp8psOw\nJ9auV/d0jNnaTXq8ZWRAXX/cJCtcBKPuWPp4uk8/rJ9vsJabvFry8GookE2lyEZs\nDa5YmratB4O2DMDf7d68tWm9MAifTepCYD3xeCf5PJRpt+mOO9hup8HRd17KlL+B\ne+YHn5gciwKBgQC87oEgrVdrE5VJqWhqPoqQuxdShZx7SvzQCMgpj92Dd33TAurG\n5Sb3qr566RG7zTTkVgSF7pcswyJw8Hj2ljb+0odNRc2gGoEqMoAEwhxEv32oS03x\n2jkV5EZUOvwwBDCAWCbdxDjqZoI5SZiUIV6He4YQABbzZQuK/G4n11uJ/QKBgH2h\nTCsnEPasyU6apk51FPmJLH6GwrUWVrJIrDPxaFkKg+TL2JpRstzdDrjFLrfBz+U/\n3muRiZCODmFwbYKpzuPac99OkL6mkstUc+uR3qYlivljeGe8IQk0+eVlWs0G3nCS\nHLUjfkFS4l0GmYhuJ8gp49dmGf0y7iXQWK9odDVNAoGABTrNyw7EGaLJ7T73Utze\n0KIn2eVunkVUSltQFTU6qeKovR0DnB0fvH4bfX9cVqSWt91D9i60QtpwsUEb+yIt\n2vSDWV3h2EtSKxRNhLSFAgSCFCTMYXWVMpPnLa4yOYT4fndwq58orfYGhljXKp5n\nV+XZDlo08iQreOgkbcFsxA4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kxlvw@ipharma-5f75f.iam.gserviceaccount.com",
+  "client_id": "111763674369884640810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kxlvw%40ipharma-5f75f.iam.gserviceaccount.com"
+}

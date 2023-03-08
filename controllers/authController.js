@@ -85,7 +85,10 @@ exports.protect = (model) =>
 
     const decode = await promisify(jwt.verify)(token, process.env.JWT_SECRET);
 
-    const currentUser = await db(model).select().where("id", decode.id[0]).first();
+    const currentUser = await db(model)
+      .select()
+      .where("id", decode.id[0])
+      .first();
 
     if (!currentUser) {
       return next(
